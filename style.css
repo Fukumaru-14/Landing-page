@@ -149,3 +149,45 @@ button {
     width: 800px;
     padding-right: 25px;
 }
+.forth {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 400px;
+    margin: 0;
+    height: 20vw;
+}
+.textForth {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    width: 80vw;
+    background-color: #3882F6;
+    border-radius: 6px;
+    color: #E5E7EB;
+}
+.textBlock {
+    margin: auto 0;
+}
+.button2 {
+    border-radius: 8px;
+    padding: 12px 42px;;
+    color: white;
+    outline: 2px solid white;
+    font-weight: 900;
+    margin: auto 0;
+}
+.textForth1 {
+    font-weight: 900;
+    font-size: 24px;
+}
+.fifth {
+    background-color: #1D2937;
+    color: #E5E7EB;
+    padding: 16px 400px;
+    margin: 0;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
