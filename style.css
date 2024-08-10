@@ -8,6 +8,7 @@ body {
     display: 1;
     font-family: Roboto, sans-serif;
     flex-shrink: 1;
+    margin: 0;
 }
 .first {
     background-color: #1D2937;
